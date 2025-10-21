@@ -1,0 +1,9 @@
+#0f172a- background color
+Inter,sans-serif - font
+#6663F1- btn background
+#334155-btn background
+#64748B - text color
+#CBD5E1- font color
+#6663F1 - font color
+#E2E8F0- h1 color
+HK Grotesk -font h2
